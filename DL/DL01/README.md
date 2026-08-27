@@ -27,7 +27,7 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
      
-    <img width="825" height="523" alt="Image" src="https://github.com/user-attachments/assets/c842147b-8b39-4318-8536-b7ff00fa4c80" />
+    <img width="805" height="616" alt="Image" src="https://github.com/user-attachments/assets/db6e83ce-6a80-4e65-a5e5-a47575a86d0d" />
     
         
 - [x]  **4. 회고를 잘 작성했나요?**
